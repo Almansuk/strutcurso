@@ -1,4 +1,6 @@
 /workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/mysystem/DateConverter.java
 /workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/mysystem/HelloWorldAction.java
 /workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/mysystem/IndexAction.java
-/workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/mysystem/MiClase.java
+/workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/mysystem/MyAction.java
+/workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/services/Service.java
+/workspaces/strutcurso/myWebApp/src/main/java/com/mycompany/services/ServiceImpl.java

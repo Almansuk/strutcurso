@@ -17,13 +17,13 @@
             <result>/WEB-INF/jsp/index.jsp</result>
         </action>
 
-        <action name="helloWorld" class="helloWorldAction">
+        <action name="helloWorld" class="com.mycompany.mysystem.helloWorldAction">
             <result name="input">/WEB-INF/jsp/index.jsp</result>
             <result>/WEB-INF/jsp/helloWorld.jsp</result>
         </action>
 
         <action name="executeService" class="com.mycompany.mysystem.MyAction">
-            <result name="success">/success.jsp</result>
+            <result name="success">/WEB-INF/jsp/success.jsp</result>
         </action>
 
     </package>

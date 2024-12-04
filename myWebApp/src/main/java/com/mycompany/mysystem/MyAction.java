@@ -1,16 +1,16 @@
 package com.mycompany.mysystem;
 
 import com.opensymphony.xwork2.ActionSupport;
-import com.mycompany.services.Service;
+import com.mycompany.services.ServiceImpl;
 
 public class MyAction extends ActionSupport {
-    private Service service;
+    private ServiceImpl service;
 
     // Variable para pasar datos a la página
     private String message;
 
     // Setter para la inyección de dependencia
-    public void setService(Service service) {
+    public void setService(ServiceImpl service) {
         this.service = service;
     }
 
